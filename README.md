@@ -1,2 +1,1 @@
-# cicd-test
-Simple repo for AWS CodePipeline testing
+Hello CI/CD
